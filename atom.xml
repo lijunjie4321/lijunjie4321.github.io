@@ -1,44 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>The wind in yeasterday</title>
+  <subtitle>Today will be different</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-18T03:35:06.257Z</updated>
+  <updated>2016-11-21T08:03:22.777Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Wind</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/11/18/hello-world/"/>
-    <id>http://yoursite.com/2016/11/18/hello-world/</id>
-    <published>2016-11-18T03:35:06.257Z</published>
-    <updated>2016-11-18T03:35:06.257Z</updated>
+    <title>写在开始</title>
+    <link href="http://yoursite.com/2016/11/21/my-new-blog/"/>
+    <id>http://yoursite.com/2016/11/21/my-new-blog/</id>
+    <published>2016-11-21T07:02:01.000Z</published>
+    <updated>2016-11-21T08:03:22.777Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>毕业回国到现在有3个多月了，一如又回到了3年之前 ——是考研还是工作？ 现在的选项则变成了 ——考公务员还是工作？ 公务员意味着更加稳定的收入以及既定的前景而工作则是充满挑战的未来和不确定的收入。由于我对于互联网的热爱，以及互联网蓬勃发展的朝气，我还是想向这个行业冲刺的。什么适合我？技术？运营？推广？产品？<br><a id="more"></a><br>毕业回国到现在有3个多月了，一如又回到了3年之前 ——是考研还是工作？ 现在的选项则变成了 ——考公务员还是工作？ 公务员意味着更加稳定的收入以及既定的前景而工作则是充满挑战的未来和不确定的收入。由于我对于互联网的热爱，以及互联网蓬勃发展的朝气，我还是想向这个行业冲刺的。什么适合我？技术？运营？推广？产品？<br>对于一个毫无经验的菜鸟来说产品和运营是最适合我发展的。<br>想入行的原因：<br>1.个人主观：热爱互联网，看好互联网前景。<br>2.客观因素：不错的待遇，团队的氛围，良好的上升空间。<br>3.我认为产品经理这个职位是需要沉淀的，对于个人的长远发展很有好处。</p>
+<p><strong>我的优势：</strong></p>
+<ol>
+<li>学历：本一+海归硕士，说高不高说低不低的学历，但是相对于大部分人来说这个学历也算是一种优势的<br>体现。海外的经历提高了我对于他人的沟通（很多事情都得自己解决），对于环境的适应力，同时也是一种眼    界的开阔。</li>
+<li>执行力：决定的事情就去做，不拖拖拉拉，很多时候我会给自己一个时间表，用来监控自己对计划的执行    程度。</li>
+<li>沟通能力：好吧，和在海外和招生办，研究生院老师的各种扯皮提高了我的脸皮厚度，以及用语的准确     性。<br>学习能力：本科和海外的经验说明我的学习能力还不错，同时我个人也喜欢看一些杂七杂八的东西（历史<br>啊，人文啊，诗歌啊）这能够丰富我的眼界和阅历。</li>
+</ol>
+<p><strong>我的劣势：</strong></p>
+<ol>
+<li>经验：没有项目经验，没有实习经验，没有经验意味着公司无法考验你的上手能力。</li>
+<li>年龄：今年26了，相比于刚毕业的本科生又大了那么3岁，有时候我会想，是不是一毕业就出来工作会比较好？但是我不后悔，海外的经历也给予了我十足的眼界，让我见识到了各种各样的人和情况。</li>
+<li>技术：产品经理要用到的一些软件正在学习和上手包括xmind，visio以及axure。也谈不上完全没技术，会一些前端div+css是自己的兴趣学的，小学的时候用frontpage做过网站，C++会一点，也就是个半桶子水吧。但我觉得这也是我的一个优势，只可以帮助我在产品岗位上更好的和程序哥哥姐姐们交流。</li>
+<li>对职业的了解程度：到现在对产品经理的职责有这比较详细的了解，但是文档的规范，市场的调研这些具体的还不甚清楚，总体来说需要学习和补充（实践是最好的补充）。</li>
+</ol>
+<p><strong>我的方向：</strong><br>此文写于11.21.2016， 目前待业在家，我希望我能够用我的时间来充电，在边找机会的同时，充实我的行业了解，以及职业技能。在一个月以后我希望我能够：</p>
+<ol>
+<li>努力规范自己的文档水平。</li>
+<li>学会xmind，visio以及axure。</li>
+<li>试着对行业的app进行分析和拆解。</li>
+<li>多看一些书籍进行充电(《结网》 ，《人人都做产品经理》 ，《影响力》）<br>让我们共勉吧！</li>
+</ol>
+<p>11.21.2016<br> 那时的我</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;毕业回国到现在有3个多月了，一如又回到了3年之前 ——是考研还是工作？ 现在的选项则变成了 ——考公务员还是工作？ 公务员意味着更加稳定的收入以及既定的前景而工作则是充满挑战的未来和不确定的收入。由于我对于互联网的热爱，以及互联网蓬勃发展的朝气，我还是想向这个行业冲刺的。什么适合我？技术？运营？推广？产品？&lt;br&gt;
     
     </summary>
     
+      <category term="我的痕迹" scheme="http://yoursite.com/categories/%E6%88%91%E7%9A%84%E7%97%95%E8%BF%B9/"/>
+    
+    
+      <category term="起航" scheme="http://yoursite.com/tags/%E8%B5%B7%E8%88%AA/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
     
   </entry>
   
